@@ -1,0 +1,63 @@
+*{
+    text-decoration: none;
+    background-color: #00405C ;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+.main{
+    border-style: line;
+    background-color: white;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* height: 450px;
+    padding: 15px; */
+    width: 530px;
+    /* margin-left: 350px; */
+}
+.flx{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+}
+.ali{
+    background-color: white;
+    width: 100%;
+    color: red;
+    
+}
+
+
+
+.a{
+    background: white;
+}
+
+.button1{
+    width: 100%;
+    background: #008f7a;
+    color: white;
+    border: none;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 7px;
+    font-size: 16px;
+    color: white;
+}
+
+.button1:hover {
+    background-color: black;
+}
